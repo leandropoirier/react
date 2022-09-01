@@ -1,4 +1,5 @@
 import foto from '../assets/MINIMUS-removebg-preview.png'
+import CartWidget from './CartWidget'
 const NavBar = () => {
 return (
 <nav class="navbar navbar-expand-lg bg-light">
@@ -19,6 +20,7 @@ return (
             <a class="nav-link" href="#">Contactanos</a>
             </li>
         </ul>
+        <CartWidget cart={3} />
     <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search"></input>
         <button class="btn btn-outline-success" type="submit">Buscar</button>

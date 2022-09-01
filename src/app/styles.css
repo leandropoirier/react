@@ -1,4 +1,15 @@
-*{
-    padding: 0px;
-    margin: 0px;
+.carrito{
+    margin:5px;
+}
+.numero{
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 25px;
+}
+.bienvenida{
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
