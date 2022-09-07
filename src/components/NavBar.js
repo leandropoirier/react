@@ -20,7 +20,7 @@ return (
             <a class="nav-link" href="#">Contactanos</a>
             </li>
         </ul>
-        <CartWidget cart={3} />
+        <CartWidget />
     <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search"></input>
         <button class="btn btn-outline-success" type="submit">Buscar</button>

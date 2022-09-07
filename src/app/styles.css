@@ -13,3 +13,20 @@
     font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.contaner{
+    margin-top: 2%;
+    margin-left: 42%;
+    text-align: center;
+    border: 2px solid black;
+    height: 170px;
+    width: 300px;
+}
+.contaner button{
+    margin: 5px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 43px;
+}
+.cantidad{
+    font-size: 30px;
+}
