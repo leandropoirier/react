@@ -1,0 +1,29 @@
+.card {
+    width: 18rem;
+    margin-top: 10px;
+    margin-left: 42%;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img {
+    width: 50%;
+    height: 50%;
+    margin-top: 10px;
+    object-fit: cover;
+}
+
+.card ul li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgb(12, 11, 11);
+    text-decoration: none;
+    text-shadow: none;
+    transition: all 1s;
+    text-align: center;
+}
+
+.card li:hover {
+    transition: all 1s;
+    color: #0b0195;
+}
